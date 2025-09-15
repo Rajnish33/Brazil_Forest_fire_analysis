@@ -1,0 +1,1 @@
+This project analyzes forest fire patterns in Brazil using satellite data and climate indicators. It identifies high-risk zones, seasonal trends, and links between fires, human activity, and weather. The goal is to support prevention strategies, environmental protection, and sustainable land management.
